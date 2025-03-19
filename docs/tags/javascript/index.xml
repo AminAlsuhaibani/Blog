@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>JavaScript on Kalinka&#39;s site</title>
-    <link>https://adityatelange.github.io/hugo-PaperMod/tags/javascript/</link>
+    <link>https://aminalsuhaibani.github.io/Blog/tags/javascript/</link>
     <description>Recent content in JavaScript on Kalinka&#39;s site</description>
     <image>
       <title>Kalinka&#39;s site</title>
-      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>https://aminalsuhaibani.github.io/Blog/images/papermod-cover.png</url>
+      <link>https://aminalsuhaibani.github.io/Blog/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Wed, 19 Mar 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://aminalsuhaibani.github.io/Blog/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Equality? More Like a Choose-Your-Own-Adventure</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/blog/equality-adventure/</link>
+      <link>https://aminalsuhaibani.github.io/Blog/blog/equality-adventure/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/blog/equality-adventure/</guid>
+      <guid>https://aminalsuhaibani.github.io/Blog/blog/equality-adventure/</guid>
       <description>&lt;h2 id=&#34;2-equality-more-like-a-choose-your-own-adventure&#34;&gt;2. Equality? More Like a Choose-Your-Own-Adventure&lt;/h2&gt;
 &lt;p&gt;Why settle for one way of comparing things when you can have two? JavaScript offers both &lt;code&gt;==&lt;/code&gt; and &lt;code&gt;===&lt;/code&gt;—with &lt;code&gt;==&lt;/code&gt; being the wild card. If you’re feeling adventurous (or just confused), try predicting the outcome of comparisons. Spoiler: it’s usually not what you expect!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
@@ -28,9 +28,9 @@
     </item>
     <item>
       <title>Why You NEVER Use JavaScript</title>
-      <link>https://adityatelange.github.io/hugo-PaperMod/blog/never-use-javascript/</link>
+      <link>https://aminalsuhaibani.github.io/Blog/blog/never-use-javascript/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>https://adityatelange.github.io/hugo-PaperMod/blog/never-use-javascript/</guid>
+      <guid>https://aminalsuhaibani.github.io/Blog/blog/never-use-javascript/</guid>
       <description>&lt;h2 id=&#34;1-the-mystery-of-type-coercion&#34;&gt;1. The Mystery of Type Coercion&lt;/h2&gt;
 &lt;p&gt;Ever wondered why &lt;code&gt;[] + []&lt;/code&gt; turns into an empty string and not a number? JavaScript loves to play tricks on you! Forget strict typing—JavaScript’s type coercion means that adding a number to a string might just result in a string. It’s like expecting a cat to behave like a dog—utterly unpredictable!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
