@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Welcome to my Blog page on Kalinka&#39;s site</title>
+    <link>https://adityatelange.github.io/hugo-PaperMod/blog/</link>
+    <description>Recent content in Welcome to my Blog page on Kalinka&#39;s site</description>
+    <image>
+      <title>Kalinka&#39;s site</title>
+      <url>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</url>
+      <link>https://adityatelange.github.io/hugo-PaperMod/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.145.0</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Wed, 19 Mar 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://adityatelange.github.io/hugo-PaperMod/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Blog</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/blog/my-first-post/</link>
+      <pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/blog/my-first-post/</guid>
+      <description>hello there, Here I will be adding new stuff to my Blog site mostly about hating on javascript, hope you like it here ! </description>
+    </item>
+    <item>
+      <title>Equality? More Like a Choose-Your-Own-Adventure</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/blog/equality-adventure/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/blog/equality-adventure/</guid>
+      <description>&lt;h2 id=&#34;2-equality-more-like-a-choose-your-own-adventure&#34;&gt;2. Equality? More Like a Choose-Your-Own-Adventure&lt;/h2&gt;
+&lt;p&gt;Why settle for one way of comparing things when you can have two? JavaScript offers both &lt;code&gt;==&lt;/code&gt; and &lt;code&gt;===&lt;/code&gt;—with &lt;code&gt;==&lt;/code&gt; being the wild card. If you’re feeling adventurous (or just confused), try predicting the outcome of comparisons. Spoiler: it’s usually not what you expect!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;false&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt;  &lt;span class=&#34;c1&#34;&gt;// true
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;0&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;===&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;false&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// false
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>Why You NEVER Use JavaScript</title>
+      <link>https://adityatelange.github.io/hugo-PaperMod/blog/never-use-javascript/</link>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>https://adityatelange.github.io/hugo-PaperMod/blog/never-use-javascript/</guid>
+      <description>&lt;h2 id=&#34;1-the-mystery-of-type-coercion&#34;&gt;1. The Mystery of Type Coercion&lt;/h2&gt;
+&lt;p&gt;Ever wondered why &lt;code&gt;[] + []&lt;/code&gt; turns into an empty string and not a number? JavaScript loves to play tricks on you! Forget strict typing—JavaScript’s type coercion means that adding a number to a string might just result in a string. It’s like expecting a cat to behave like a dog—utterly unpredictable!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nx&#34;&gt;console&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nx&#34;&gt;log&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;mi&#34;&gt;5&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;+&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;5&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;);&lt;/span&gt; &lt;span class=&#34;c1&#34;&gt;// &amp;#34;55&amp;#34;, not 10!
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
