@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Blog on Kalinka&#39;s site</title>
-    <link>http://localhost:1313/hugo-PaperMod/tags/blog/</link>
+    <link>http://localhost:1313/Blog/tags/blog/</link>
     <description>Recent content in Blog on Kalinka&#39;s site</description>
     <image>
       <title>Kalinka&#39;s site</title>
-      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>http://localhost:1313/Blog/images/papermod-cover.png</url>
+      <link>http://localhost:1313/Blog/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Wed, 19 Mar 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-PaperMod/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Blog/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Blog</title>
-      <link>http://localhost:1313/hugo-PaperMod/blog/my-first-post/</link>
+      <link>http://localhost:1313/Blog/blog/my-first-post/</link>
       <pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/blog/my-first-post/</guid>
+      <guid>http://localhost:1313/Blog/blog/my-first-post/</guid>
       <description>hello there, Here I will be adding new stuff to my Blog site mostly about hating on javascript, hope you like it here ! </description>
     </item>
   </channel>

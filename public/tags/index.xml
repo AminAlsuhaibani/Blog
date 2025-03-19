@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Kalinka&#39;s site</title>
-    <link>http://localhost:1313/hugo-PaperMod/tags/</link>
+    <link>http://localhost:1313/Blog/tags/</link>
     <description>Recent content in Tags on Kalinka&#39;s site</description>
     <image>
       <title>Kalinka&#39;s site</title>
-      <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
-      <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
+      <url>http://localhost:1313/Blog/images/papermod-cover.png</url>
+      <link>http://localhost:1313/Blog/images/papermod-cover.png</link>
     </image>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <copyright>PaperMod Contributors</copyright>
     <lastBuildDate>Wed, 19 Mar 2025 12:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/hugo-PaperMod/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/Blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/blog/</link>
+      <link>http://localhost:1313/Blog/tags/blog/</link>
       <pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/blog/</guid>
+      <guid>http://localhost:1313/Blog/tags/blog/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/hugo/</link>
+      <link>http://localhost:1313/Blog/tags/hugo/</link>
       <pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/hugo/</guid>
+      <guid>http://localhost:1313/Blog/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Tutorial</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/tutorial/</link>
+      <link>http://localhost:1313/Blog/tags/tutorial/</link>
       <pubDate>Wed, 19 Mar 2025 12:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/tutorial/</guid>
+      <guid>http://localhost:1313/Blog/tags/tutorial/</guid>
       <description></description>
     </item>
     <item>
       <title>Humor</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/humor/</link>
+      <link>http://localhost:1313/Blog/tags/humor/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/humor/</guid>
+      <guid>http://localhost:1313/Blog/tags/humor/</guid>
       <description></description>
     </item>
     <item>
       <title>JavaScript</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/javascript/</link>
+      <link>http://localhost:1313/Blog/tags/javascript/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/javascript/</guid>
+      <guid>http://localhost:1313/Blog/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Joke</title>
-      <link>http://localhost:1313/hugo-PaperMod/tags/joke/</link>
+      <link>http://localhost:1313/Blog/tags/joke/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/tags/joke/</guid>
+      <guid>http://localhost:1313/Blog/tags/joke/</guid>
       <description></description>
     </item>
   </channel>
