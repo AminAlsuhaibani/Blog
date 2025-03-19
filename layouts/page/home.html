@@ -1,0 +1,8 @@
+{{ define "main" }}
+<section class="home-info">
+    <h1>{{ .Site.Params.homeInfoParams.Title }}</h1>
+    <div>
+        {{ .Site.Params.homeInfoParams.Content | markdownify }}
+    </div>
+</section>
+{{ end }}

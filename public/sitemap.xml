@@ -40,6 +40,10 @@
   </url><url>
     <loc>http://localhost:1313/hugo-PaperMod/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/home/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/profile/</loc>
+  </url><url>
     <loc>http://localhost:1313/hugo-PaperMod/series/</loc>
   </url>
 </urlset>
