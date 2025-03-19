@@ -2,12 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/hugo-PaperMod/categories/</loc>
+    <loc>http://localhost:1313/hugo-PaperMod/tags/blog/</loc>
+    <lastmod>2025-03-19T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/tags/hugo/</loc>
+    <lastmod>2025-03-19T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-PaperMod/</loc>
+    <lastmod>2025-03-19T12:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugo-PaperMod/series/</loc>
+    <loc>http://localhost:1313/hugo-PaperMod/blog/my-first-post/</loc>
+    <lastmod>2025-03-19T12:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugo-PaperMod/tags/</loc>
+    <lastmod>2025-03-19T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/tags/tutorial/</loc>
+    <lastmod>2025-03-19T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/blog/</loc>
+    <lastmod>2025-03-19T12:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/blog/equality-adventure/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/tags/humor/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/tags/javascript/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/tags/joke/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/blog/post/</loc>
+    <lastmod>2025-03-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/hugo-PaperMod/series/</loc>
   </url>
 </urlset>
