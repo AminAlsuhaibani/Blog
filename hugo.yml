@@ -27,6 +27,9 @@ languages:
       series: series
     menu:
       main:
+        - name: "Home"
+          url: "/home/"
+          weight: 1
         - name: "Profile"
           url: "/profile/"
           weight: 2
@@ -37,7 +40,7 @@ languages:
           url: "/tags/"
           weight: 10
         - name: "WiKi"
-          url: "https://github.com/adityatelange/hugo-PaperMod/wiki/"
+          url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
 outputs:
   home:
     - HTML
@@ -64,13 +67,11 @@ params:
   images: [ "images/papermod-cover.png" ]
 
   profileMode:
-    title: "Kalinka"
-    subtitle: "This is subtitle"
+    enabled: false
+    title: "Im Kalinka check my github account "
     buttons:
-      - name: Home
-        url: "/"
-      - name: Github
-        url: "https://github.com/AminAlsuhaibani"
+      - name: My Github
+        url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"
 
   homeInfoParams:
     Title: "Welcome to my page !!"
@@ -86,4 +87,4 @@ params:
   socialIcons:
     - name: github
       title: "View Source on Github"
-      url: "https://github.com/adityatelange/hugo-PaperMod"
+      url: "https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley"

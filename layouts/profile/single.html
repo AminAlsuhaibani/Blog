@@ -1,0 +1,16 @@
+{{ define "main" }}
+<section class="profile-mode">
+  <h1>{{ .Site.Params.profileMode.title }}</h1>
+  <h2>{{ .Site.Params.profileMode.subtitle }}</h2>
+
+  {{ if .Site.Params.profileMode.buttons }}
+  <ul class="profile-buttons">
+    {{ range .Site.Params.profileMode.buttons }}
+    <li>
+      <a href="{{ .url }}">{{ .name }}</a>
+    </li>
+    {{ end }}
+  </ul>
+  {{ end }}
+</section>
+{{ end }}
