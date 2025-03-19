@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>JavaScript on Kalinka&#39;s page !</title>
+    <title>JavaScript on Kalinka&#39;s site</title>
     <link>http://localhost:1313/hugo-PaperMod/tags/javascript/</link>
-    <description>Recent content in JavaScript on Kalinka&#39;s page !</description>
+    <description>Recent content in JavaScript on Kalinka&#39;s site</description>
     <image>
-      <title>Kalinka&#39;s page !</title>
+      <title>Kalinka&#39;s site</title>
       <url>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</url>
       <link>http://localhost:1313/hugo-PaperMod/images/papermod-cover.png</link>
     </image>
@@ -28,9 +28,9 @@
     </item>
     <item>
       <title>Why You NEVER Use JavaScript</title>
-      <link>http://localhost:1313/hugo-PaperMod/blog/post/</link>
+      <link>http://localhost:1313/hugo-PaperMod/blog/never-use-javascript/</link>
       <pubDate>Wed, 19 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hugo-PaperMod/blog/post/</guid>
+      <guid>http://localhost:1313/hugo-PaperMod/blog/never-use-javascript/</guid>
       <description>&lt;h2 id=&#34;1-the-mystery-of-type-coercion&#34;&gt;1. The Mystery of Type Coercion&lt;/h2&gt;
 &lt;p&gt;Ever wondered why &lt;code&gt;[] + []&lt;/code&gt; turns into an empty string and not a number? JavaScript loves to play tricks on you! Forget strict typing—JavaScript’s type coercion means that adding a number to a string might just result in a string. It’s like expecting a cat to behave like a dog—utterly unpredictable!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
